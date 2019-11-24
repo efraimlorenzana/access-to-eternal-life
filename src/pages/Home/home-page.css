@@ -1,0 +1,12 @@
+.home > h1 {
+    text-align: center;
+    padding: 1rem 0;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.scriptures {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}

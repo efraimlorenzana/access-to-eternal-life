@@ -1,0 +1,10 @@
+.footer {
+    height: 100%;
+    padding: 2.5rem;
+    color: #ffffff;
+}
+
+.footer__copyrigth {
+    display: block;
+    text-align: center;
+}

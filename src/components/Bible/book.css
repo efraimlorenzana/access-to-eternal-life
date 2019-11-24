@@ -1,0 +1,20 @@
+.bible__books {
+    width: 30rem;
+    background-color: #ffffff54;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.bible__books:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    box-shadow: 0 1rem 2rem rgba(0,0,0,.2);
+}
+
+.bible__books > h4 {
+    text-align: center;
+}
+
+.bible__books > p {
+    text-align: center;
+}

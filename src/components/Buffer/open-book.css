@@ -1,0 +1,27 @@
+.open-book-buffering {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+    background-color:#00000063;
+    z-index: 99999;
+}
+
+.buffer-indicator {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    text-align: center;
+}
+
+.buffer-indicator > img {
+    width: 10rem;
+}
+
+.buffer-message {
+    color: #ffffff;
+}

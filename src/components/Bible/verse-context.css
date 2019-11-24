@@ -1,0 +1,17 @@
+.verse-context {
+    color: #ffffff;
+    background-color: black;
+    padding: 2rem;
+}
+
+.verse-context em > strong {
+    color: gold;
+}
+
+.verse-context .v {
+    display: none;
+}
+
+.verse-context:not(:last-child) {
+    margin-bottom: 1rem;
+}

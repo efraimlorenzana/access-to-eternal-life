@@ -1,0 +1,33 @@
+.navigation {
+    display: flex;
+    align-items: center;
+    background-color: #282c34;
+    padding: 0 2rem;
+
+}
+
+.navigation__brand {
+    color: #ffffff;
+}
+
+.navigation__links {
+    margin-left: 2rem;
+}
+
+.navigation__links > li {
+    list-style: none;
+    display: inline-block;
+}
+
+.navigation__links > li > a {
+    text-decoration: none;
+    font-weight: 500;
+    color: #eeeeee;
+    padding: 2rem;
+    display: inline-block;
+}
+
+.navigation__links > li > a:hover,
+.navigation__links .active {
+    background-color: #000000;
+}
