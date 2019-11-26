@@ -11,7 +11,7 @@ const Navigation = () => {
 
             <ul className="navigation__links">
                 <li>
-                    <NavLink exact to="/">Home</NavLink>
+                    <NavLink exact to="/access-to-eternal-life/">Home</NavLink>
                 </li>
 
                 {/* <li>
