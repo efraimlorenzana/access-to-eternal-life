@@ -15,8 +15,8 @@ const App = () => {
           </header>
           <main className="app-main">
             <Switch>
-              <Route exact path='/' component={Home} />
-              <Route exact path='/chapter' component={Chapter} />
+              <Route exact path='/access-to-eternal-life' component={Home} />
+              <Route exact path='/access-to-eternal-life/chapter' component={Chapter} />
             </Switch>
           </main>
           <footer className="app-footer">
