@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/access-to-eternal-life/static/css/main.6a39a97b.chunk.css",
+    "main.js": "/access-to-eternal-life/static/js/main.a0c3124c.chunk.js",
+    "main.js.map": "/access-to-eternal-life/static/js/main.a0c3124c.chunk.js.map",
+    "runtime-main.js": "/access-to-eternal-life/static/js/runtime-main.ab1f2c0f.js",
+    "runtime-main.js.map": "/access-to-eternal-life/static/js/runtime-main.ab1f2c0f.js.map",
+    "static/js/2.f0425e6c.chunk.js": "/access-to-eternal-life/static/js/2.f0425e6c.chunk.js",
+    "static/js/2.f0425e6c.chunk.js.map": "/access-to-eternal-life/static/js/2.f0425e6c.chunk.js.map",
+    "index.html": "/access-to-eternal-life/index.html",
+    "precache-manifest.0aef99a64bcb00f8e5cbf34fb685508e.js": "/access-to-eternal-life/precache-manifest.0aef99a64bcb00f8e5cbf34fb685508e.js",
+    "service-worker.js": "/access-to-eternal-life/service-worker.js",
+    "static/css/main.6a39a97b.chunk.css.map": "/access-to-eternal-life/static/css/main.6a39a97b.chunk.css.map",
+    "static/media/App.css": "/access-to-eternal-life/static/media/bg1.59c9ef22.jpg",
+    "static/media/open-book.gif": "/access-to-eternal-life/static/media/open-book.de9eb637.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab1f2c0f.js",
+    "static/js/2.f0425e6c.chunk.js",
+    "static/css/main.6a39a97b.chunk.css",
+    "static/js/main.a0c3124c.chunk.js"
+  ]
+}
