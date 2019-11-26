@@ -37,7 +37,7 @@ const Chapter = () => {
             <div className="chapter__content">
                 <ul className="chapter__content--list">
                     {
-                        books.map((book, i) => i !== 0 ? <li key={i}><Link key={book.id} to={`/chapter?bibleId=${bibleId}&bookId=${bookId}&read=${book.id}`}>Chapter {book.number}</Link></li> : null)
+                        books.map((book, i) => i !== 0 ? <li key={i}><Link key={book.id} to={`/access-to-eternal-life/chapter?bibleId=${bibleId}&bookId=${bookId}&read=${book.id}`}>Chapter {book.number}</Link></li> : null)
                     }
                 </ul>
 

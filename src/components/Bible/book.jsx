@@ -10,7 +10,7 @@ const Book = ({ info }) => {
             <p>
                 {info.nameLong}
             </p>
-            <Link to={`/chapter?bibleId=${info.bibleId}&bookId=${info.id}`} >Read</Link>
+            <Link to={`/access-to-eternal-life/chapter?bibleId=${info.bibleId}&bookId=${info.id}`} >Read</Link>
         </div>
     );
 }
