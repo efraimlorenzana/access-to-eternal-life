@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/access-to-eternal-life/precache-manifest.6d464cd8e624f9a5e120dd45a3a7ac22.js"
+  "/access-to-eternal-life/precache-manifest.e20de37fb81c5eff038fcb14ad7afc8c.js"
 );
 
 self.addEventListener('message', (event) => {
